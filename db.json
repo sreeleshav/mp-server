@@ -1,0 +1,45 @@
+{
+  "videos": [
+    {
+      "title": "Aavesham song",
+      "imageUrl": "https://malayalam.cdn.zeenews.com/malayalam/sites/default/files/styles/zm_700x400/public/2024/03/12/257543-galatta.png?itok=eL-XfJT3",
+      "videoUrl": "https://www.youtube.com/embed/kYGJjrLtxQI?si=SOEHhHULjd_rQ4RU&autoplay=1",
+      "id": 7
+    },
+    {
+      "title": "ARM Trailer",
+      "imageUrl": "https://i.ytimg.com/vi/rFgS10V8908/sddefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/rFgS10V8908?si=SOEHhHULjd_rQ4RU&autoplay=1",
+      "id": 8
+    },
+    {
+      "title": "vaazha song",
+      "imageUrl": "https://i.ytimg.com/vi/e1BHIY9p2WU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAjMKZl158Cn01qT8wHC6u1SSrF2A",
+      "videoUrl": "https://www.youtube.com/embed/e1BHIY9p2WU?si=SOEHhHULjd_rQ4RU&autoplay=1",
+      "id": 9
+    },
+    {
+      "title": "Big Dawgs",
+      "imageUrl": "https://static.toiimg.com/thumb/msid-112518044,width-1280,height-720,resizemode-4/112518044.jpg",
+      "videoUrl": "https://www.youtube.com/embed/hOHKltAiKXQ?si=SOEHhHULjd_rQ4RU&autoplay=1",
+      "id": 10
+    },
+    {
+      "title": "The Last Dance",
+      "imageUrl": "https://i.ytimg.com/vi/Wv80WlK3rzI/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/Wv80WlK3rzI?si=SOEHhHULjd_rQ4RU&autoplay=1",
+      "id": 11
+    }
+  ],
+  "categories": [
+    {
+      "Music": "",
+      "id": 1
+    },
+    {
+      "category": "Trailers",
+      "id": 2
+    }
+  ],
+  "history": []
+}
